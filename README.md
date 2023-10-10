@@ -1,5 +1,10 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+
+
+MARINA LUQUE
+
+
 # Lab | List Comprehensions
 
 ## Introduction
